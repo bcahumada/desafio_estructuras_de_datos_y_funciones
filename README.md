@@ -39,7 +39,6 @@ python recordatorios.py
 
 Python 3.x
 Archivo lorem_ipsum.txt para el Ejercicio 2
-Ejecución General
 
 
 
